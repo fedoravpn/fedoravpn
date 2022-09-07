@@ -1,4 +1,7 @@
 
+ <p><img src="front-end-back-end-development.gif" alight="centre" />
+ 
+ ## Hello, I'm Lawrence
  
  <p>I am a Front End Web Developer and a Top Rated Freelancer on Fiverr. I have freelanced and worked on many projects with both small and medium companies.
   You can see my website at <a href="https://makewebsite.co.za/">MakeWebsite<a/></p>
